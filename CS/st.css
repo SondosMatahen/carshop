@@ -1,0 +1,35 @@
+body header h1{
+    text-align: center;
+    color: snow;
+    font-weight: bold;
+    font-size: 100px;
+}
+body header ul li{
+    display: inline-block;
+    padding-right: 300px;
+    color: indianred;
+    font-size: 20px;
+}
+body header ul li a{
+    text-decoration: none;
+    color: indianred;
+    }
+body{
+    background-color: #3d0229;
+}
+#about{
+    color: lightblue;
+    font-size: 30px;
+}
+footer{
+    color: lightpink;
+    font-size: 20px;
+}
+p{
+    color: rgb(201, 146, 186);
+    font-size: 30px;
+}
+body article img{
+    height: 700px;
+    padding-left: 200px;
+}
