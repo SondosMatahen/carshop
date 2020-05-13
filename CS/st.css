@@ -4,9 +4,24 @@ body header h1{
     font-weight: bold;
     font-size: 100px;
 }
+h3{text-align: none;
+    color: snow;
+    font-weight: bold;
+    font-size: 50px;
+
+}
+ h4{
+    text-align: none;
+    color:plum;
+    font-weight: bold;
+    font-size: 50px;
+
+ }
+
 body header ul li{
     display: inline-block;
     padding-right: 300px;
+    padding-left: 100px;
     color: indianred;
     font-size: 20px;
 }
@@ -25,7 +40,7 @@ footer{
     color: lightpink;
     font-size: 20px;
 }
-p{
+p{ text-align: center;
     color: rgb(201, 146, 186);
     font-size: 30px;
 }
