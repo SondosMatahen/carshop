@@ -1,5 +1,5 @@
 alert('Thank you for your visiting')
-var Day = prompt('what is the day?+First letter capital')
+var Day = prompt('what is the day (Sunday-Wednesday)?+First letter capital')
 var Today ;
 switch (Day)
 {
