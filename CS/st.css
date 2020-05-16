@@ -27,7 +27,7 @@ body header ul li{
 }
 body header ul li a{
     text-decoration: none;
-    color: indianred;
+    color: hsl(0, 53%, 58%);
     }
 body{
     background-color: #3d0229;
@@ -41,10 +41,11 @@ footer{
     font-size: 20px;
 }
 p{ text-align: center;
-    color: rgb(201, 146, 186);
+    color: hsla(211, 100%, 70%, 0.75);
     font-size: 30px;
 }
 body article img{
+    float: left;
     height: 700px;
-    padding-left: 200px;
+    padding-left: 100px;
 }
